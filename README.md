@@ -14,8 +14,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for Softwar
 
 ## 🌱 Currently Learning
 
-- Flask Micro Web Framework
-
+-Django Framework for web developement using python
 ## 🔗 Connect with Me
 
 - https://www.linkedin.com/in/ruchitsoni/
